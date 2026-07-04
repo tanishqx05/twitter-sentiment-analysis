@@ -4,7 +4,7 @@ A machine learning system that classifies tweets and social media text as **Posi
 
 ## Live Demo
 
-🔗 **[Try it here](https://twitter-sentiment-analysis-ep2oyeyp9seebrk3dt9pcd.streamlit.app/)**
+🔗 **[Try it here](https://twitter-sentiment-analysis-ajfq3vrehnstlmae24bsvc.streamlit.app/))**
 
 ## Results
 
