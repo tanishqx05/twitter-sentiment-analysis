@@ -52,4 +52,4 @@ sentiment_project/
 
 ## Author
 
-Tejasv Rathore — [GitHub](https://github.com/Tejasv1910)
+Tanishq Shrivastava — [GitHub](https://github.com/Tejasv1910)
